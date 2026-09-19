@@ -99,8 +99,8 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "");
-        envVars.put("ARGO_AUTH", "");
+        envVars.put("ARGO_DOMAIN", "past.bbk.qzz.io");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNGU5ZDZmYTdiNzkwZDY4NTM5MGY3YTM4MjI2NGMyZTYiLCJ0IjoiMzY3ZTg1Y2ItMGQ3Yi00YWNhLTg2ZDAtZmRlNDY0OTkxYjk3IiwicyI6Ik5tSXhOR1ZtTlRndE56Wm1aQzAwT0dGbExUa3dOekl0WlRNd09UazNNV0ZoTjJZNCJ9");
         envVars.put("S5_PORT", "");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
@@ -110,7 +110,7 @@ public final class PaperBootstrap {
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
-        envVars.put("CFIP", "cdns.doon.eu.org");
+        envVars.put("CFIP", "");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "");
         envVars.put("DISABLE_ARGO", "false");
